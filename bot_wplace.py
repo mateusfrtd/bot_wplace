@@ -114,7 +114,7 @@ if __name__ == '__main__':
         modo = input("Digite 1 ou 2 e pressione Enter: ")
 
     # --- CONFIGURAÇÕES GERAIS ---
-    IMAGEM_ARQUIVO = "bixo.png"
+    IMAGEM_ARQUIVO = "./images/coracao.png"
     LARGURA_DESENHO = 27  # Pixels
     ALTURA_DESENHO = 50   # Pixels
     
